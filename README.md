@@ -12,5 +12,5 @@
 -Then the players are created. Each player can belong to at most one team, but if desired, a player can be created without a team. In other words, not every player has to play for one team and cannot play for more than one team at the same time.
 -A match is scheduled between the teams at a certain date and time. After the match, the match score must be entered through the application.
 
-![PublicUI](https://github.com/burakyuz1/NutriCal/blob/master/NutriCal/Resources/nutrigif.gif?raw=true)
+![PublicUI](https://github.com/karatasarzu/WeAreTheChampions/blob/master/WeAreTheChampions/Resources/WATC.gif)
 
