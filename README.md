@@ -1,7 +1,7 @@
 # WeAreTheChampions
 
-**WeAreTheChampions** is a match management app. By using this application, you can store and manage the information of teams, players and matches between teams for real sports teams or sports activities among your friends.
-
+**WeAreTheChampions** is a match management app. 
+By using this application, you can store and manage the information of teams, players and matches between teams for real sports teams or sports activities among your friends.
 
 **WeAreTheChampions** is designed with C# language and Windows Form App .Net Framework. It used MS-SQL in database and used Entity Framework CodeFirst approach.
 
