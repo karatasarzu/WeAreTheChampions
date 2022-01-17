@@ -1,4 +1,5 @@
 # We Are The Champions
+> Before running the program, you can access the datas by adding the "WATC.bak" file.
 
 **WeAreTheChampions** is a match management app. 
 By using this application, you can store and manage the information of teams, players and matches between teams for real sports teams or sports activities among your friends.
