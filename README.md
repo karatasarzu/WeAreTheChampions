@@ -17,4 +17,3 @@ By using this application, you can store and manage the information of teams, pl
 - A match is scheduled between the teams at a certain date and time. After the match, the match score must be entered through the application.
 
 ![PublicUI](https://github.com/karatasarzu/WeAreTheChampions/blob/master/WeAreTheChampions/Resources/WATC.gif)
-
